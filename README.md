@@ -1,17 +1,47 @@
-# simulador_memoria
+## Descrição do Projeto
 
-A new Flutter project.
+### 🐧 **Versão Linux**
 
-## Getting Started
+📁 Pasta: `Simulador de memoria - Linux`
 
-This project is a starting point for a Flutter application.
+#### Como executar:
 
-A few resources to get you started if this is your first Flutter project:
+1. Abra o terminal na pasta:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+   ```bash
+   cd Simulador_de_memoria_-_Linux
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Conceda permissão de execução (se necessário):
+
+   ```bash
+   chmod +x simulador_memoria
+   ```
+
+3. Execute o programa:
+
+   ```bash
+   ./simulador_memoria
+   ```
+
+### **Versão Windows**
+
+📁 Pasta: `Simulador de memoria - Windows`
+
+#### Como executar:
+
+1. Acesse a pasta:
+
+   ```
+   Simulador de memoria - Windows
+   ```
+
+2. Execute o arquivo:
+
+   ```
+   simulador_memoria.exe
+   ```
+
+> ⚠️ **Importante:**
+> Não remover arquivos da pasta, pois o executável depende das bibliotecas incluídas.
+
