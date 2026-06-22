@@ -1,0 +1,1 @@
+ C:\\Simulador_de_memoria\\.dart_tool\\flutter_build\\c48d0808254308fb6653aad3193dcc96\\dart_build_result.json: 

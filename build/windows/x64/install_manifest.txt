@@ -1,0 +1,13 @@
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/data/icudtl.dat
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/flutter_windows.dll
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.bin
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.bin.json
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/data/flutter_assets/FontManifest.json
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/data/flutter_assets/NativeAssetsManifest.json
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/data/flutter_assets/NOTICES
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/data/flutter_assets/NOTICES.Z
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/data/flutter_assets/shaders/stretch_effect.frag
+C:/Simulador_de_memoria/build/windows/x64/runner/Release/data/app.so

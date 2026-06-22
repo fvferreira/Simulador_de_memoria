@@ -1,0 +1,10 @@
+^C:\SIMULADOR_DE_MEMORIA\BUILD\WINDOWS\X64\CMAKEFILES\91E0A987F4C42648AB2E55B7E2EFC5F1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Insiders\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Simulador_de_memoria/windows -BC:/Simulador_de_memoria/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Simulador_de_memoria/build/windows/x64/simulador_memoria.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
