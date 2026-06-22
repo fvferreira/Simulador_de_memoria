@@ -1,0 +1,29 @@
+# ninja log v5
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/libflutter_linux_gtk.so	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_engine.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_value.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/fl_view.h	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	c60828f28cfa1f1e
+3	44594	0	flutter/_phony_	c60828f28cfa1f1e
+3	44594	0	/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/flutter/_phony_	c60828f28cfa1f1e
+44597	69359	1782146497546081371	runner/CMakeFiles/simulador_memoria.dir/__/flutter/generated_plugin_registrant.cc.o	412fd7067a57d17d
+44594	69935	1782146498122075612	runner/CMakeFiles/simulador_memoria.dir/main.cc.o	22c16eb7e191f2b7
+44595	71846	1782146500031056889	runner/CMakeFiles/simulador_memoria.dir/my_application.cc.o	1a8db4525a64748a
+71846	117380	1782146545568754277	intermediates_do_not_run/simulador_memoria	dcce006b07682e65
+117713	128210	0	CMakeFiles/install.util	916ba5f32a9746fd

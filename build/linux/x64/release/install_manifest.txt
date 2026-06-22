@@ -1,0 +1,13 @@
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/simulador_memoria
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/data/icudtl.dat
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.bin
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/fjvferreira/Área de trabalho/Simulador_de_memoria/build/linux/x64/release/bundle/lib/libapp.so

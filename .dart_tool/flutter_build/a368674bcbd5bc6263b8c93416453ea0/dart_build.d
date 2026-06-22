@@ -1,0 +1,1 @@
+ /home/fjvferreira/Área\ de\ trabalho/Simulador_de_memoria/.dart_tool/flutter_build/a368674bcbd5bc6263b8c93416453ea0/dart_build_result.json: 
